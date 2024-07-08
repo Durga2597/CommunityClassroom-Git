@@ -1,4 +1,4 @@
 CommunityClassroom-Git
 
-durga made this changes
+This is an example to make a merge conflicts
 
