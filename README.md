@@ -1,3 +1,1 @@
-durga made this changes
-This is example to merge conflicts - master
-
+This is example to make a merge conflict changed by durga - temp
